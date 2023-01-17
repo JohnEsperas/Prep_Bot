@@ -1,0 +1,9 @@
+@media(min-width: 992px) {
+    .quote-input{
+        width: 50%;
+    }
+}
+
+body{
+    background-color: #14365d;
+}
